@@ -20,5 +20,5 @@ If you've "ported" rpli to a different format, I encourage you to submit a pull 
 This repository is distributed under the terms of the [replicense](https://github.com/JuxGD/replicense) (rpli).
 
 ### Current Formats
-[Markdown](https://github.com/JuxGD/replicense/tree/main/LICENSE.md)
-[Plain text](https://github.com/JuxGD/replicense/tree/main/LICENSE)
+- [Markdown](https://github.com/JuxGD/replicense/tree/main/LICENSE.md)
+- [Plain text](https://github.com/JuxGD/replicense/tree/main/LICENSE)
